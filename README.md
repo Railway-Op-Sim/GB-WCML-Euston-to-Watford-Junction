@@ -1,7 +1,7 @@
 # Railway Operation Simulator Template Map 
 The south section of the West Coast Main Line, from London Euston to Watford Junction.
 
-![Image of Current State of Map]("Images/WCML Euston to Watford Junction.bmp")
+![Image of Current State of Map](<Images/WCML Euston to Watford Junction.bmp>)
 
 ## Current Status
 
